@@ -1,7 +1,7 @@
-#Portfolio
+# Portfolio
 A repository containing key pieces of work I have made or participated in.
 
-##Games
+## Games
 All the games listed here were made using the Unity game engine with C#
 - Proto 1
   - A 2D rouge like shooter
@@ -16,7 +16,7 @@ All the games listed here were made using the Unity game engine with C#
   - Responsible for all programming and game narative  
 
 
-##Mobile Apps
+## Mobile Apps
 - HIDtoolkit
   - Android app which allows for emulation of HID controllers such as a mouse on any computer
   - Currently allows emulation of Mouse, Gamepad, Steering Wheel
