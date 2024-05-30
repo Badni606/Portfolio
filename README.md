@@ -28,7 +28,6 @@ All the games listed here were made using the Unity game engine with C#
   - Currently allows emulation of Mouse, Gamepad, Steering Wheel
   - Java
 <img src="./Portfolio_Images/HIDtoolkit/Screenshot_20240530-150517_HID_Tool_Kit.jpg" alt="drawing" height="500"/>
-![Home Screen](./Portfolio_Images/HIDtoolkit/Screenshot_20240530-150517_HID_Tool_Kit.jpg =200x500)
-![Mouse](./Portfolio_Images/HIDtoolkit/Screenshot_20240530-150622_HID_Tool_Kit.jpg) 
+<img src="./Portfolio_Images/HIDtoolkit/Screenshot_20240530-150622_HID_Tool_Kit.jpg" alt="drawing" height="500"/>
 ![Gamepad](./Portfolio_Images/HIDtoolkit/Screenshot_20240530-150608_HID_Tool_Kit.jpg)
 ![Wheel](./Portfolio_Images/HIDtoolkit/Screenshot_20240530-150553_HID_Tool_Kit.jpg)
