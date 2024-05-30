@@ -28,15 +28,10 @@ To try the games, the unity .dll file is required. It is not present in this rep
   - Android app which allows for emulation of HID controllers such as a mouse on any computer
   - Currently allows emulation of Mouse, Gamepad, Steering Wheel
   - Java
- 
-<div class="row">
-  <div class="column">
-    <img src="./Portfolio_Images/HIDtoolkit/Screenshot_20240530-150517_HID_Tool_Kit.jpg" alt="drawing" height="500"/>
-  </div>
-  <div class="column">
-    <img src="./Portfolio_Images/HIDtoolkit/Screenshot_20240530-150622_HID_Tool_Kit.jpg" alt="drawing" height="500"/>
-  </div>
-</div>
+ <p float="left">
+   <img src="./Portfolio_Images/HIDtoolkit/Screenshot_20240530-150517_HID_Tool_Kit.jpg" alt="drawing" height="500"/>
+   <img src="./Portfolio_Images/HIDtoolkit/Screenshot_20240530-150622_HID_Tool_Kit.jpg" alt="drawing" height="500"/>
+</p>
 
 ![Gamepad](./Portfolio_Images/HIDtoolkit/Screenshot_20240530-150608_HID_Tool_Kit.jpg)
 ![Wheel](./Portfolio_Images/HIDtoolkit/Screenshot_20240530-150553_HID_Tool_Kit.jpg)
