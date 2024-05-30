@@ -18,9 +18,9 @@ All the games listed here were made using the Unity game engine with C#
   - A short demo, 2D survivial adventure game 
   - Made in coolaboration with another coursemate
   - Responsible for all programming and game narative  
-![image3](./Portfolio_Images/Beyind_The_Edge/1.png)
-![image4](./Portfolio_Images/Beyind_The_Edge/2.png) 
-![image5](./Portfolio_Images/Beyind_The_Edge/3.png)
+![image3](./Portfolio_Images/Beyond_The_Edge/1.png)
+![image4](./Portfolio_Images/Beyond_The_Edge/2.png) 
+![image5](./Portfolio_Images/Beyond_The_Edge/3.png)
 
 ## Mobile Apps
 - HIDtoolkit
